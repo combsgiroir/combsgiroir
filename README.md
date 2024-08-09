@@ -5,6 +5,9 @@ My name is Rachel and in this repository you will find all supplementary data fi
 If you would like access to my code for my RNA-seq analyses, please see my "Code-for-RNA-seq_Analysis" Repository.
 
 
+
+
+
 The following is a brief description of the supplementary data files found in this repository:
 
 -Supplemental_File_1_DEGs.xlsx : This file contains a list of all the differentially expressed genes in root, leaf, and pod tissues based on 4 conditions (control, 7d waterlogged, 3d waterlogged, and 3HR recovery) and 2 accessions (MN106 and SP32-10).
