@@ -1,14 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is Rachel and in this repository you will find all supplementary data files cited in my dissertation, "The Physical and Molecular Responses of Pennycress (Thlaspi arvense L.) to Waterlogging", and in my manuscript "Morpho-physiological and transcriptomic responses of field pennycress to waterlogging".
+My name is Rachel and this is my GitHub for the data and code generated during my PhD in Translational Plant Sciences at The Ohio State University. In this repository you will find all supplementary data files cited in my dissertation, "The Physical and Molecular Responses of Pennycress (Thlaspi arvense L.) to Waterlogging", and in my manuscript "Morpho-physiological and transcriptomic responses of field pennycress to waterlogging".
 
 If you would like access to my code for my RNA-seq analyses, please see my "Code-for-RNA-seq_Analysis" Repository.
 
 
 
-
-
-The following is a brief description of the supplementary data files found in this repository:
+## The following is a brief description of the supplementary data files found in this repository:
 
 -Supplemental_File_1_DEGs.xlsx : This file contains a list of all the differentially expressed genes in root, leaf, and pod tissues based on 4 conditions (control, 7d waterlogged, 3d waterlogged, and 3HR recovery) and 2 accessions (MN106 and SP32-10).
 
